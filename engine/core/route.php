@@ -34,7 +34,7 @@ class Route{
     
     public function randomString($length)
     {
-   
+        var_dum("Data");
     }        
     
     public function upload($path)
