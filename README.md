@@ -26,4 +26,4 @@ Instalasi via composer
 
 - Versi yang bisa di jalankan ialah versi "3.05" dari repo ini
 
-
+Thanks for HaxorsProgramming Squad
