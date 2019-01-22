@@ -1,1 +1,2 @@
-language: php
+language: php,
+framework: uinsu-web-framework
