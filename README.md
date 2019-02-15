@@ -6,9 +6,6 @@ Tim pengembang :
 
 - Ketua Tim Pengembangan : Aditia Darma Nasution
 - Pembina : Muhammad Ikhsan
-- Pengembangan Ecosystem : Adam Falizufa Sagara
-- Tester : Abdillah
-- Dokumentasi : Diana Vita
 
 Framework ini menggunakan konsep Simple MVC
 
