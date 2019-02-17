@@ -34,7 +34,7 @@ class Route{
     
     public function randomString($length)
     {
-        var_dum("Data");
+        //var_dum("Data");
     }        
     
     public function upload($path)
@@ -54,6 +54,9 @@ class Route{
     
     public function getApi()
     {
+        $url = '';
+        $type = ['get','post','put','delete'];
+        $header = [];
         
     }
     
