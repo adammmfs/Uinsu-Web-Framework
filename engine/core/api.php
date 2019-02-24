@@ -3,5 +3,6 @@
 class mainClass{}
 
 $mainExtend = new mainClass;
+$mainExtend = -> $className[0];
 
-$mainExtend = -> $className[i];
+var_dump($mainExtend);
