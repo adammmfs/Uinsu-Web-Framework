@@ -85,6 +85,8 @@ function pesanToCrud(){
     window.alert("Harap konfigurasi file base.php di 'engine/rule/base.php' dan 'engine/rule/database.php' untuk menjalankan example CRUD!!");
 }
 
+            function ajaxVisit(){
+            }
        
         </script>
     </body>
