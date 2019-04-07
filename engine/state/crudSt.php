@@ -57,6 +57,7 @@ class crudSt{
   
   public function dataMhsAll()
   {
+    return $this -> st -> querySingle();
   }
 
 
