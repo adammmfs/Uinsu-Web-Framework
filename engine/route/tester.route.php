@@ -5,3 +5,4 @@
 *
 */
 $data['newRule'] = $idRule;
+$data['secondRule'] = $secondRule;
