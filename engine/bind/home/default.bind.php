@@ -74,20 +74,17 @@
                 </div>
                 <br/>
                 <a href="http://uinsu.ac.id" target="new">
-                <img src="http://uinsu.ac.id/iain_cpanel/ckfinder2/userfiles/images/logo-uinsu.jpg" style="width:120px;"></a>
+                <img src="<?=STYLEBASE; ?>/default/img/logo-uinsu.jpg" style="width:120px;"></a>
                 <a href="http://haxorsprogrammingclub.id" target="new">
-                <img src="http://haxorsprogrammingclub.id/ladun/img/default/logo_club.png" style="width:200px;"></a>
+                <img src="<?=STYLEBASE; ?>/default/img/logo_club.png" style="width:200px;"></a>
             </div>
         </div>
         <script type="text/javascript">
         
-function pesanToCrud(){
-    window.alert("Harap konfigurasi file base.php di 'engine/rule/base.php' dan 'engine/rule/database.php' untuk menjalankan example CRUD!!");
-}
-
-            function ajaxVisit(){
+            function pesanToCrud(){
+                window.alert("Harap konfigurasi file base.php di 'engine/rule/base.php' dan 'engine/rule/database.php' untuk menjalankan example CRUD!!");
             }
-       
+            
         </script>
     </body>
 </html>
