@@ -1,0 +1,4 @@
+<?php
+$CREDIT_ACCESS = '';
+
+?>
