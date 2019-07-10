@@ -5,10 +5,30 @@
 *
 */
 
+/**
+ * 
+ * Database server location
+ */
 $dbServer = 'localhost';
+/**
+ * 
+ * Database user
+ */
 $dbUser = 'root';
+/**
+ * 
+ * Database password
+ */
 $dbPassword = '';
+/**
+ * 
+ * Database name
+ */
 $dbName = 'dbs_mahasiswa';
+/**
+ * 
+ * Database driver
+ */
 $dbDriver = 'mysqli';
 
 /**
