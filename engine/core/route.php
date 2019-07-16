@@ -28,7 +28,7 @@ class Route{
 
     public function state($state)
     {
-        require_once 'engine/state/'.$state.'.php';
+        require_once 'engine/state/'.$state.'.state.php';
         return new $state;
     }
     
