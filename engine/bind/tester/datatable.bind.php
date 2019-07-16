@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Test Datatable</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.1.0/material.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.material.min.css">
+    <link rel="stylesheet" href="<?=HOMEBASE; ?>/lib/datatable/materialUi/css/material.min.css">
+    <link rel="stylesheet" href="<?=HOMEBASE; ?>/lib/datatable/materialUi/css/dataTables.material.min.css">
 </head>
 <body>
-    
+    <?=DATATABLE; ?>
 <table id="example" class="mdl-data-table" style="width:100%">
         <thead>
             <tr>

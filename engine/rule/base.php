@@ -10,7 +10,7 @@
 * Home base (alamat website/server) 
 * cth : localhost/uinsuWf atau http://haxorsprogramming.id
 */
-$homeBase = '';
+$homeBase = 'http://localhost/Uinsu-Web-Framework';
 
 /**
 * Site name (nama situs web)
@@ -21,6 +21,14 @@ $siteName = 'Uinsu Web Framework';
 * Author (Pengembang / pemilik website)
 */
 $author = '';
+
+//main route,not index
+$mainRoute = 'home';
+/**
+*
+*
+*
+*/
 
 //Path style(css/js/sass/dll)
 $styleBase = $homeBase.'ladun/';
@@ -34,13 +42,14 @@ $utf = '+07';
 $tanggal = date("Y-m-d");
 $waktu = date("m:s:H");
 
-//main route,not index
-$mainRoute = 'home';
+
+
 /**
-*
-*
-*
-*/
+ * Library 
+ * 
+ * 
+ */
+
 
 
 //------ Fungsi ------//
@@ -63,6 +72,7 @@ define('AUTHOR',$author);
 define('MAINROUTE',$mainRoute);
 define('STYLEBASE',$styleBase);
 define('IMGBASE',$imgBase);
+
 //
 define('TANGGAL',$tanggal);
 define('WAKTU',"Waktu");
