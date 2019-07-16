@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="<?=HOMEBASE; ?>/lib/datatable/materialUi/css/dataTables.material.min.css">
 </head>
 <body>
-    <?=DATATABLE; ?>
+    
 <table id="example" class="mdl-data-table" style="width:100%">
         <thead>
             <tr>
