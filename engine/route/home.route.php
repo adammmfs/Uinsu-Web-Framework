@@ -46,6 +46,7 @@ class Home extends Route{
     {
         $this -> bind ('/home/kontak');
     }
+
     
  
     
