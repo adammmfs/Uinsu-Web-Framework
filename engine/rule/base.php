@@ -10,7 +10,7 @@
 * Home base (alamat website/server) 
 * cth : localhost/uinsuWf atau http://haxorsprogramming.id
 */
-$homeBase = 'http://localhost/Uinsu-Web-Framework';
+$homeBase = 'http://localhost/Uinsu-Web-Framework/';
 
 /**
 * Site name (nama situs web)
@@ -31,7 +31,7 @@ $mainRoute = 'home';
 */
 
 //Path style(css/js/sass/dll)
-$styleBase = $homeBase.'ladun/';
+$styleBase = $homeBase.'ladun';
 
 //Path img
 $imgBase = $homeBase.'ladun/site/img';
