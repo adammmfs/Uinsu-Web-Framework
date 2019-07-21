@@ -12,5 +12,9 @@ class Tester extends Route{
         $this -> bind('/tester/datatable');
     }
    
+    public function databaseBuilder()
+    {
+        $this -> state('test') ->  buatTabel();
+    }
     
 }
