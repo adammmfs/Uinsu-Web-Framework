@@ -8,7 +8,7 @@
 * Muhammad Furqan, S.Si, Sc, M.Comp (Ketua Prodi Ilmu Komputer UINSU)
 * 
 * @package	Uinsu Web Framework
-* @author	Haxors Programming Club
+* @author	Haxors Programming Club (Club Pemrogramman Uinsu)
 * @link		http://haxorsprogrammingclub.id
 * @since	Version 3.5 (stable)
 *
