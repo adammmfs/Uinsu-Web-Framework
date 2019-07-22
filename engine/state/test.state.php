@@ -25,7 +25,7 @@ class test{
 
     function buatTabel()
     {
-        $query = "CREATE TABLE Persons (PersonID int,LastName varchar(255),FirstName varchar(255),Address varchar(255), City varchar(255))";
+        $query = "CREATE TABLE tbl_payment (id int AUTO_INCREMENT, token varchar(255), id_trans varchar(255), rec_id varchar(255), waktu TIMESTAMP, Age int, PRIMARY KEY(id));";
         $this -> st -> query($query);
         $this -> st -> queryRun();
         

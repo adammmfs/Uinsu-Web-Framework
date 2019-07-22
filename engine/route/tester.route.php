@@ -11,10 +11,23 @@ class Tester extends Route{
     {
         $this -> bind('/tester/datatable');
     }
+
+    public function formDatabase()
+    {
+        $this -> bind('/tester/formDatabase');
+        
+    }
+
+    public function sqlCommand()
+    {
+        $status = ['status_command ' => 'Table successfully created'];
+        $this -> state('test') ->  buatTabel();
+        echo "Table successfully created";
+    }
    
     public function databaseBuilder()
     {
-        $this -> state('test') ->  buatTabel();
+        //$this -> state('test') ->  buatTabel();
     }
     
 }
