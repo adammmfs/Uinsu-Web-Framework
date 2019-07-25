@@ -5,7 +5,7 @@ Web Framework based on PHP - Universitas Islam Negeri Sumatera Utara
 Tim pengembang :
 
 - Ketua Tim Pengembangan : Aditia Darma Nasution
-- Pembina : Muhammad Ikhsan
+- Pembina : Muhammad Ikhsan, ST, M.Kom
 
 Framework ini menggunakan konsep Simple MVC
 
