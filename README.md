@@ -18,8 +18,8 @@ Instalasi offline
 - Download source code, letakkan di folder webserver
 - Setting konfigurasi awal di 'engine/rule.php'
 
-Instalasi via composer 
->> <i>composer create-project haxorsprogramming/uinsu-web-framework namaProject</i> 
+Instalasi via git
+>> <i>git clone https://github.com/haxorsprogramming/Uinsu-Web-Framework.git</i> 
 - Versi yang bisa di jalankan ialah versi "3.05" dari repo ini
 
 Thanks for HaxorsProgramming Squad
