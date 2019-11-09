@@ -36,7 +36,7 @@ class crudSt{
 
    public function tambahData($data)
   {
-    $query = DB_INSERT.$this -> tbl ." VALUES ('',:nim,:nama,:email,:jurusan,:alamat);";
+    $query = DB_INSERT.$this -> tbl ." VALUES (null,:nim,:nama,:email,:jurusan,:alamat);";
     $this -> st -> query($query);
     $this -> st -> querySet('nim',$data['nim']);
     $this -> st -> querySet('nama',$data['nama']);
