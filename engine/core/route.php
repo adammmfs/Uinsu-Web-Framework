@@ -52,14 +52,7 @@ class Route{
     $data['mailId'] = $this -> inputPost('mailId');
     }
     
-    public function getApi()
-    {
-        $url = '';
-        $type = ['get','post','put','delete'];
-        $header = [];
-        
-    }
-    
+  
     public function inputPost($id)
     {
         $id = $_POST[$id];
