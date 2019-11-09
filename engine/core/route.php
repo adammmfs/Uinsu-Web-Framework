@@ -9,7 +9,7 @@
 * 
 * @package	Uinsu Web Framework
 * @author	Haxors Programming Club
-* @link	http://haxorsprogrammingclub.id
+* @link	https://haxors.or.id
 * @since	Version 3.5
 */
 

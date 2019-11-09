@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title><?=SITENAME; ?> - Home A</title>
+        <title><?=SITENAME; ?></title>
 
         <!-- Fonts -->
        <link href="https://fonts.googleapis.com/css?family=Asap" rel="stylesheet">
@@ -75,7 +75,7 @@
                 <br/>
                 <a href="http://uinsu.ac.id" target="new">
                 <img src="<?=STYLEBASE; ?>/default/img/logo-uinsu.jpg" style="width:120px;"></a>
-                <a href="http://haxorsprogrammingclub.id" target="new">
+                <a href="http://haxors.or.id" target="new">
                 <img src="<?=STYLEBASE; ?>/default/img/logo_club.png" style="width:200px;"></a>
             </div>
         </div>
